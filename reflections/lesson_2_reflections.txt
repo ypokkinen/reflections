@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Transform the current directory into a Git repository. This adds a .git folder to the current directory and makes it possible to start recording revisions of the project.
+
+How is the staging area different from working directory and the repository? What values do you think it offers?
+Staging area is basically a loading dock where you get to determine what changes get shipped away.
+
