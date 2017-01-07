@@ -5,3 +5,6 @@ Transform the current directory into a Git repository. This adds a .git folder t
 How is the staging area different from working directory and the repository? What values do you think it offers?
 Staging area is basically a loading dock where you get to determine what changes get shipped away.
 
+How can you use the staging area to make sure you have one commit per logical change?
+Add only files that are logically dependant to each other.
+
